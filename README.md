@@ -1,3 +1,6 @@
 This is my first change
-This is second line in first file.:wq
+This is second line in first file
+
+This is third line. 
+
 
